@@ -1,0 +1,21 @@
+FUNDATION
+
+- Javascript Engine
+- Javascript Runtime
+- Interpreter/Compiler/JIT Engine
+- Writing Optimized Code
+- Call Stack + Memory Heap
+- Stack Overflow + Memory Leaks
+- Garbage Collection
+- Node.js
+- Single Threaded Model
+
+- Execution Context
+- Lexical Enviroment
+- Scope Chain
+- Hoisting
+- Function Invocation
+- Function Scope vs Block Scope
+- Dynamic vs Lexical Scope
+- this - call, apply, bind
+- IIFE
